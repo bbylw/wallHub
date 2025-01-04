@@ -1,4 +1,8 @@
-# PaywallHub - 知识产权保护导航
+# PaywallHub - 知识产权保护导航 | Intellectual Property Protection Navigator
+
+[English](#english) | [中文](#中文)
+
+# 中文
 
 这是一个提醒人们尊重知识产权重要性的导航网站。网站采用了类似 Pornhub 的黑橙配色方案和UI设计，以一种引人注目的方式展示内容。
 
@@ -32,5 +36,44 @@
 本项目仅用于教育目的，提醒人们要尊重知识产权。我们不对任何滥用负责。
 
 ## 📝 许可证
+
+MIT License
+
+---
+
+# English
+
+This is a navigation website designed to remind people of the importance of intellectual property rights. The website adopts the black and orange color scheme and UI design similar to Pornhub, presenting content in an eye-catching way.
+
+## 🔒 About Intellectual Property
+
+Intellectual property protection is crucial for promoting innovation and maintaining creators' rights. In today's digital age, we need to:
+
+- Respect creators' work
+- Support sustainable development of quality content
+- Maintain a healthy creative ecosystem
+- Encourage positive knowledge dissemination
+
+## 🚀 Deployment
+
+This project is a pure static website that can be easily deployed on:
+
+- Cloudflare Pages
+- GitHub Pages
+
+Both platforms provide free hosting services with simple deployment processes.
+
+## 🎨 Design Notes
+
+- UI design inspired by Pornhub
+- Uses iconic black and orange color scheme
+- Responsive design supporting various devices
+- Modern minimalist card layout
+
+## ⚠️ Disclaimer
+
+This project is for educational purposes only, reminding people to respect intellectual property rights. We are not responsible for any misuse.
+
+## 📝 License
 
 MIT License 
